@@ -6,7 +6,7 @@ A beautiful and interactive photo booth web application built with **React**, **
 
 ## 🌐 Live Demo
 
-https://photoboothcs.vercel.app/
+http://spora.pesanchat.com/
 
 ---
 
@@ -46,12 +46,12 @@ https://photoboothcs.vercel.app/
    - 3 pictures (diagonal layout)
    - 4 pictures (2x2 grid)
 
-3. **Camera Page**  
+3. **Camera Page**
    - Webcam view with countdown and effects
    - Capture photos for selected layout
    - Preview, delete, or retake images
 
-4. **Frame Selection Page**  
+4. **Frame Selection Page**
    - Apply solid color or textured background
    - Real-time preview on canvas
    - Download the final image
@@ -59,28 +59,28 @@ https://photoboothcs.vercel.app/
 ---
 
 ## 1. Clone the Repository
+
 ```bash
 git clone https://github.com/Christopheryu29/photobox-web.git
 cd photobox-web
 ```
 
 ## 2. Install Dependencies
+
 ```
 npm install
 ```
 
 ## #. Start the Dev Server
+
 ```
 npm run dev
 ```
 
-
 ## 📌 Notes
+
 No user data is collected or stored.
 
 Everything runs fully in-browser.
 
 Images are only visible to the user and can be downloaded instantly.
-
-
-

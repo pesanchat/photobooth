@@ -107,7 +107,7 @@ const TemplateSelectionPage: React.FC = () => {
         }}
         onClick={() => navigate("/")}
       >
-        Back
+        kembali
       </Button>
     </Box>
   );
